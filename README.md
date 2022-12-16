@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Node JS, Express JS, MongoDB**
 
-- 📝 I regularly write articles on [https://medium.com/@pankajmehra9991833](https://medium.com/@pankajmehra9991833)
-
 - 💬 Ask me about **Java, JavaScript, HTML, CSS, React**
 
 - 📫 How to reach me **pankajmehra9991833@gmail.com**
+
+- ❗️Check my updated on **https://www.linkedin.com/in/pankaj-mehra-09081321b/** 
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Lq9c2cagR5W4JGQos0H9UjStfpLoFWRF/view?usp=sharing](https://drive.google.com/file/d/1Lq9c2cagR5W4JGQos0H9UjStfpLoFWRF/view?usp=sharing)
 
