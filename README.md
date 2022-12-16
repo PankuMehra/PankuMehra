@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pankaj Mehra</h1>
+
 <h3 align="center">An Aspiring Full Stack Developer</h3>
 
+<p align="center">
+<img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif" alt="developer"  />
+</p>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankumehra&label=Profile%20views&color=0e75b6&style=flat" alt="pankumehra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankumehra" alt="pankumehra" /></a> </p>
