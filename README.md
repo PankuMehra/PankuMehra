@@ -3,7 +3,7 @@
 <h3 align="center">An Aspiring Full Stack Developer</h3>
 
 <p align="center">
-<img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif" alt="developer" width="300px" height="270px" />
+<img src="https://cdn.dribbble.com/users/1090020/screenshots/3901343/________-5.gif" alt="developer" width="300px" height="270px" />
 </p>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankumehra&label=Profile%20views&color=0e75b6&style=flat" alt="pankumehra" /> </p>
