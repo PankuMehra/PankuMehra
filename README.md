@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on [OYO Rooms](https://silver-axolotl-5d928f.netlify.app/)
 
-- 🌱 I’m currently learning **Node JS, Express JS, MongoDB**
+- 🌱 I’m currently learning **Next JS, Typescript, Sass**
 
-- 💬 Ask me about **Java, JavaScript, HTML, CSS, React**
+- 💬 Ask me about **React, MongoDB, NodeJS, ExpressJS, CSS, Javascript**
 
 - 📫 How to reach me **pankajmehra9991833@gmail.com**
 
