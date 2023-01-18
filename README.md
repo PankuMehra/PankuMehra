@@ -69,7 +69,10 @@
 
 <br/>  
 
+## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PankuMehra&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankumehra&show_icons=true&locale=en&layout=compact" alt="pankumehra" /></p>
 
