@@ -23,12 +23,15 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Lq9c2cagR5W4JGQos0H9UjStfpLoFWRF/view?usp=sharing](https://drive.google.com/file/d/1Lq9c2cagR5W4JGQos0H9UjStfpLoFWRF/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pankaj-mehra-09081321b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pankaj-mehra-09081321b/" height="30" width="40" /></a>
-<a href="https://medium.com/@pankajmehra9991833" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pankajmehra9991833" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/pankumehra/https://leetcode.com/pankumehra/https://leetcode.com/pankumehra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/pankumehra/https://leetcode.com/pankumehra/https://leetcode.com/pankumehra/" height="30" width="40" /></a>
-</p>
+## Connect with me  
+<div align="center">
+<a href="https://github.com/https://github.com/PankuMehra/" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/pankaj-mehra-09081321b/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -60,6 +63,15 @@
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 </div>
+
+  
+</td><td valign="top" width="33%">
+
+</td></tr></table>  
+
+<br/>  
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankumehra&show_icons=true&locale=en&layout=compact" alt="pankumehra" /></p>
 
