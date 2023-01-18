@@ -70,11 +70,11 @@
 <br/>  
 
 ## Github Stats  
-<div align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankumehra&show_icons=true&locale=en&layout=compact" alt="pankumehra" /></div>
+<div align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankumehra&show_icons=true&locale=en&layout=compact" alt="pankumehra" align="center" /></div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pankumehra&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pankumehra&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 <br/>  
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankumehra&" alt='pankumehra' /></p>
+<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankumehra&" alt='pankumehra' align="center" /></div>
