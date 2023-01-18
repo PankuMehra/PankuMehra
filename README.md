@@ -72,6 +72,8 @@
 ## Github Stats  
 <div align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankumehra&show_icons=true&locale=en&layout=compact" alt="pankumehra" align="center" /></div>
 
+<br/> 
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pankumehra&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 <br/>  
